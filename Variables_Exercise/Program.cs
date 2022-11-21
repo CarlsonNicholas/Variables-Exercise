@@ -22,4 +22,6 @@ Console.WriteLine(pi);
 // Step 2
 
 Console.WriteLine($"The first letter of my name is {Letter}, I am {age} year's old!");
+Console.WriteLine($"A cool number is {num} but the best number is {pi}!");
+Console.WriteLine($"{Hello} Today is a Sunny Day: {Sunny_Day}");
 
